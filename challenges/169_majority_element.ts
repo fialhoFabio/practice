@@ -17,4 +17,4 @@ function majorityElement(nums: number[]): number {
   return nums.sort()[Math.floor(nums.length / 2)]
 }
 
-console.log(majorityElement([2,2,1,3,1,1,4,1,1,5,1,1,6]))
+console.log(majorityElement([2,2,1,3,1,1,4,1,1,5,1,1,6,7]))
